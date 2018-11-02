@@ -19,6 +19,8 @@ gem 'webpacker'
 # gem 'mini_racer', platforms: :ruby
 
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary'
+gem 'carrierwave', '~> 1.2'
 
 gem 'bootstrap-sass'
 gem 'simple_form'
