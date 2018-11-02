@@ -18,6 +18,8 @@ gem 'webpacker'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
+gem 'dotenv-rails', groups: [:development, :test]
+
 gem 'bootstrap-sass'
 gem 'simple_form'
 
